@@ -198,3 +198,12 @@ TechNavio(2015)
 - 실생활 애플리케이션 AI기술을 적용하기 위한 시도 증가하여 범용 AI 기술과 타겟형 AI 알고리즘 개발로 이분화
   - 다양한 서비스 지원을 위한 Super Intelligence 개발
   - 용도별 지원을 위한 Target 형 Intelligence 개발
+
+### 리뷰
+
+- AI/딥러닝의 활용은 B2B에서는 타겟형 AI 알고리즘 개발에 집중화될 가능성이 많음.
+  - 범용이나 큰 카테고리는 B2C를 하는 대형 IT기업에서 Open Innovation 형태로 진행될 것 같음.
+
+- Manufactoring, Healthcare,  Education 쪽 등이 유망 ^^
+
+- 좀더 생각해 봐야 함.
